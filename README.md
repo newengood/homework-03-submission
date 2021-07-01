@@ -5,6 +5,10 @@
 
 Create a random password generator with specific criteria. 
 
+
+## link to deployed applicaiton: https://newengood.github.io/homework-03-submission/
+## Link to github repository:  https://github.com/newengood/homework-03-submission
+
 ## Acceptance Criteria
 
 ```
@@ -35,45 +39,38 @@ The following image shows the web application's appearance and functionality:
 
 * Satisfies all of the preceding acceptance criteria plus the following:
 
-  * The homework should not produce any errors in the console when you inspect it using Chrome DevTools.
+  * The homework should not produce any errors in the console when you inspect it using Chrome DevTools. - [X]
 
 ### Deployment: 32%
 
-* Application deployed at live URL.
+* Application deployed at live URL. - [X]
 
-* Application loads with no errors.
+* Application loads with no errors. - [X]
 
-* Application GitHub URL submitted.
+* Application GitHub URL submitted. - []
 
-* GitHub repository that contains application code.
+* GitHub repository that contains application code. - [X]
 
 ### Application Quality: 15%
 
-* Application user experience is intuitive and easy to navigate.
+* Application user experience is intuitive and easy to navigate. - [X]
 
-* Application user interface style is clean and polished.
+* Application user interface style is clean and polished. - [X]
 
-* Application resembles the mock-up functionality provided in the homework instructions.
+* Application resembles the mock-up functionality provided in the homework instructions. - [X]
 
 ### Repository Quality: 13%
 
-* Repository has a unique name.
+* Repository has a unique name. - [X]
 
-* Repository follows best practices for file structure and naming conventions.
+* Repository follows best practices for file structure and naming conventions. - [X]
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. - [X]
 
-* Repository contains multiple descriptive commit messages.
+* Repository contains multiple descriptive commit messages. - [X]
 
-* Repository contains quality readme file with description, screenshot, and link to deployed application.
+* Repository contains quality readme file with description, screenshot, and link to deployed application.- [X]
 
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
 
 - - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© Newengood
