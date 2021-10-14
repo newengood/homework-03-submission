@@ -1,5 +1,5 @@
 ## Taylor Anderson
-## Homework 03 JavaScript: Password Generator
+## Password Generator
 
 ## Your Task
 
