@@ -6,8 +6,8 @@
 Create a random password generator with specific criteria. 
 
 
-## link to deployed applicaiton: https://newengood.github.io/homework-03-submission/
-## Link to github repository:  https://github.com/newengood/homework-03-submission
+## link to deployed applicaiton: https://newengood.github.io/password-generator/
+## Link to github repository:  https://github.com/newengood/password-generator
 
 ## Acceptance Criteria
 
